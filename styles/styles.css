@@ -62,9 +62,9 @@ hr {
 
 /* Projects */
 
-.projects {
+/* .projects {
     margin-bottom: 50px;
-}
+} */
 
 .project-list {
     padding: 0;
@@ -100,6 +100,11 @@ hr {
 
 .project-link {
     margin-left: 10px;
+}
+
+.project-link:hover,
+.project-link:focus {
+    color: blue;
 }
 
 .project-bracket {
